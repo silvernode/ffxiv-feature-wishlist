@@ -4,7 +4,7 @@
 
 ### UI
 
-- [] Retainer options combined into one single menu
+- [ ] Retainer options combined into one single menu
 
 ### Mounts
 

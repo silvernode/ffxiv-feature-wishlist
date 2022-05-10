@@ -1,4 +1,4 @@
-# Final Fantasy XIV: Player Patch Notes
+# Final Fantasy XIV: Feature Wishlist
 
 ## This list is a collection of changes to FFXIV that are desired by players.
 
